@@ -1,4 +1,5 @@
-print("hellooooo world, good night, see you after 20.5 days")
-print("hello, I am farhan")
 
+print("hellooooo world, good night, see you tomorrow")
+print("hello, I am farhan")
+print("hello, myself abuzar")
 print("newline")
